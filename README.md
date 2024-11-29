@@ -16,7 +16,7 @@
 - [搭建基于CloudFlare和Telegram的免费图床教程 - 刘学馆 | Blog (sexy0769.com)](https://blog.sexy0769.com/skill/735.html)
 - [CloudFlare+Github，打造属于自己的免费图床 - 大头钉的小小blog (luckyting.top)](https://luckyting.top/index.php/archives/20/)
 
-**前端仓库**：[MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub)
+**前端仓库**：[MarSeventh/Sanyue-ImgHub](https://lyone.xyz//Sanyue-ImgHub)
 
 **注意**：本仓库为[Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)项目的重制版，如果你觉得本项目不错，在支持本项目的同时，也请支持原项目。
 
@@ -382,7 +382,7 @@ API格式：
 
 ### 3.2定制化修改
 
-按照`3.1`步骤部署完成后，前往仓库[MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub?tab=readme-ov-file)，按照操作说明进行DIY和打包操作，最后将打包好的`/dist`目录中的内容替换到该仓库的根目录下即可（复制+替换）。
+按照`3.1`步骤部署完成后，前往仓库[MarSeventh/Sanyue-ImgHub](https://lyone.xyz//Sanyue-ImgHub?tab=readme-ov-file)，按照操作说明进行DIY和打包操作，最后将打包好的`/dist`目录中的内容替换到该仓库的根目录下即可（复制+替换）。
 
 ## 4.TODO
 
@@ -428,7 +428,7 @@ API格式：
 ### 5.1未设置`ALLOWED_DOMAINS`，但无法跨域访问？
 
 - 请检查你的cloudflare防火墙设置（例如hotlink保护是否开启）
-- 参见[Issue #8](https://github.com/MarSeventh/CloudFlare-ImgBed/issues/8)
+- 参见[Issue #8](https://lyone.xyz//CloudFlare-ImgBed/issues/8)
 
 ### 5.2如何通过PicGo上传？
 
@@ -460,7 +460,7 @@ API格式：
 
 ## 6.Tips
 
-前端开源，参见[MarSeventh/Sanyue-ImgHub](https://github.com/MarSeventh/Sanyue-ImgHub)项目。
+前端开源，参见[MarSeventh/Sanyue-ImgHub](https://lyone.xyz//Sanyue-ImgHub)项目。
 
 **如果觉得项目不错希望您能给个免费的star✨✨✨，非常感谢！**
 
