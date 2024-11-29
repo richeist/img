@@ -78,7 +78,7 @@ export async function onRequestPost(context) {  // Contents of context object
     let uploadChannel = 'TelegramNew';
     switch (urlParamUploadChannel) {
         case 'telegram':
-            uploadChannel = 'TelegramNew';
+            uploadChannel = 'CloudflareR2';
             break;
         case 'cfr2':
             uploadChannel = 'CloudflareR2';
